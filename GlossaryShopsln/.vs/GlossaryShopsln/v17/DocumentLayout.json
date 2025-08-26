@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# kazi sadia\\Shop-Management-System\\GlossaryShopsln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15738331-E2AA-429F-9B90-E6C2F669B01C}|GlossaryShop\\GlossaryShop.csproj|e:\\c# kazi sadia\\shop-management-system\\glossaryshopsln\\glossaryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15738331-E2AA-429F-9B90-E6C2F669B01C}|GlossaryShop\\GlossaryShop.csproj|solutionrelative:glossaryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# kazi sadia\\Shop-Management-System\\GlossaryShopsln\\GlossaryShop\\Program.cs",
+              "RelativeDocumentMoniker": "GlossaryShop\\Program.cs",
+              "ToolTip": "E:\\C# kazi sadia\\Shop-Management-System\\GlossaryShopsln\\GlossaryShop\\Program.cs",
+              "RelativeToolTip": "GlossaryShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:07:43.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
